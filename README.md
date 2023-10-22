@@ -6,7 +6,7 @@
 
 This application is an SVG file generator. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to an `.svg` file.
 
-Watch a demo of this application here: https://www.youtube.com/watch?v=NuQEZQk8BSo
+Watch a demo of this application here: https://www.youtube.com/watch?v=GIUWLmf-ZkM
 
 Example SVG files made using this application:
 
