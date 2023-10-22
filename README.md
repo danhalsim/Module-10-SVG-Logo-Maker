@@ -12,15 +12,15 @@ Example SVG files made using this application:
 
 Circle:
 
-![Circle](examples\sample1.svg)
+![Circle](./examples/sample1.svg)
 
 Square: 
 
-![Square](examples\sample2.svg)
+![Square](./examples/sample2.svg)
 
 Triangle:
 
-![Triangle](examples\sample3.svg)
+![Triangle](./examples/sample3.svg)
 
 ## Table of Contents
 
