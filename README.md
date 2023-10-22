@@ -10,15 +10,9 @@ Watch a demo of this application here: https://www.youtube.com/watch?v=NuQEZQk8B
 
 Example SVG files made using this application:
 
-Circle:
-
 ![Circle](./examples/sample1.svg)
 
-Square: 
-
 ![Square](./examples/sample2.svg)
-
-Triangle:
 
 ![Triangle](./examples/sample3.svg)
 
