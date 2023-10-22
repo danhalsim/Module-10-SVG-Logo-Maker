@@ -6,7 +6,7 @@
 
 This application is an SVG file generator. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to an `.svg` file.
 
-Watch a demo of this application here: 
+Watch a demo of this application here: https://www.youtube.com/watch?v=NuQEZQk8BSo
 
 Example SVG files made using this application:
 
@@ -34,7 +34,7 @@ Triangle:
 
 ## Installation
 
-Clone this repository run `npm i` to install the dependencies.
+Clone this repository. Run `npm i` to install the dependencies.
 
 ## Usage
 
@@ -51,7 +51,6 @@ Run `node index` to start the application. Follow the prompts that appear.
     - https://www.w3.org/2000/svg
 - MDN Web Docs
     - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
-    - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 - Xpert Learning Assistant for help with:
     - checking the length of text (index.js lines 36-43)
     - adding strings together (index.js lines 53-58)
